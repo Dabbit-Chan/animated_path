@@ -1,7 +1,7 @@
 name: animated_path
 description: "An Animated Widget for create path animation."
 version: 0.0.1
-homepage: ''
+homepage: 'https://github.com/Dabbit-Chan/animated_path'
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
