@@ -1,6 +1,6 @@
 name: animated_path_builder
 description: "An Animated Widget for create path animation."
-version: 0.0.1
+version: 0.0.2
 homepage: 'https://github.com/Dabbit-Chan/animated_path'
 
 environment:
