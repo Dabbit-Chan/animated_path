@@ -4,9 +4,9 @@ An Animated Widget for create path animation
 
 ## Showcase
 
-<img src="https://github.com/Dabbit-Chan/animated_path/tree/master/gifs/DrawBoardCase.gif">
-<img src="https://github.com/Dabbit-Chan/animated_path/tree/master/gifs/LissajousCase.gif">
-<img src="https://github.com/Dabbit-Chan/animated_path/tree/master/gifs/EffectCase.gif">
+<img src="https://github.com/Dabbit-Chan/animated_path/blob/main/gifs/DrawBoardCase.gif">
+<img src="https://github.com/Dabbit-Chan/animated_path/blob/main/gifs/LissajousCase.gif">
+<img src="https://github.com/Dabbit-Chan/animated_path/blob/main/gifs/EffectCase.gif">
 
 ## Features
 
@@ -53,4 +53,4 @@ AnimatedPath(
   fps: 60,
 )
 ```
-Check [example](https://github.com/Dabbit-Chan/animated_path/tree/master/example) for more.
+Check [example](https://github.com/Dabbit-Chan/animated_path/tree/main/example) for more.
