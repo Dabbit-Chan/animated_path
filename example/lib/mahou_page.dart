@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:animated_path/animated_path.dart';
+import 'package:animated_path_builder/animated_path.dart';
 import 'package:example/utils/path_extension.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
