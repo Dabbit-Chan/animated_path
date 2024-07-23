@@ -16,7 +16,7 @@ An Animated Widget for create path animation
 
 ## Getting started
 
-`import 'package:animated_path/animated_path.dart';`
+`import 'package:animated_path_builder/animated_path.dart';`
 
 ## Usage
 
